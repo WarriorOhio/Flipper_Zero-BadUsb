@@ -4,12 +4,12 @@ REM Version: 1.0
 REM Category: iPhone
 DELAY 1000
 GUI SPACE
-DELAY 500
+DELAY 1000
 STRING safari
-DELAY 500
+DELAY 1000
 ENTER
 DELAY 1000
 REM Insert your website below :)
-STRING www.yourwebsite.com
-DELAY 500
+STRING https://youtu.be/dQw4w9WgXcQ
+DELAY 1000
 ENTER
